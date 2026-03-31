@@ -32,4 +32,4 @@ This project presents an interactive dashboard to analyze air quality data acros
 Includes AQI and pollution metrics such as PM2.5, PM10, NO2, and CO.
 
 ## 👨‍💻 Author
-Yeshika Murjani
+Yugandhar  bhangale 
